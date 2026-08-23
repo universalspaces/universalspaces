@@ -2,7 +2,7 @@
 
 # universalspaces
 
-### ✦ creating things worth exploring
+### creating things worth exploring
 
 <br>
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-## ✦ Vesper
+## Vesper
 
 *A collection of projects focused on creating a cleaner Minecraft experience.*
 
@@ -50,7 +50,7 @@ A lightweight Minecraft Bedrock launcher and companion for Windows, built around
 
 <div align="center">
 
-### ✦ currently
+### currently
 
 `Vesper UI` · `Vesper Launcher` · `new ideas`
 

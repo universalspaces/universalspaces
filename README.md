@@ -2,8 +2,6 @@
 
 # universalspaces
 
-### creating things worth exploring
-
 <br>
 
 [![Vesper UI](https://img.shields.io/badge/Vesper%20UI-6C5CE7?style=for-the-badge&logoColor=white)](https://github.com/universalspaces/Vesper-UI)
@@ -55,7 +53,5 @@ A lightweight Minecraft Bedrock launcher and companion for Windows, built around
 `Vesper UI` · `Vesper Launcher` · `new ideas`
 
 <br><br>
-
-<sub>made with curiosity.</sub>
 
 </div>
